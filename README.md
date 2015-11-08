@@ -24,9 +24,6 @@ assets周りを修正する場合に、gulpのliverelaodを使いたかっただ
 1. setting.jsonに設定を記載しておく
 1. （ログインが必要なら）同じブラウザでログインしておく
 1. gulp起動
-```
-gulp
-```
 1. 開発してると、あらまliverelaodに！
 
 細かいことは後で書く
