@@ -1,0 +1,8 @@
+{
+  "RAILS_URL": "http://localhost:3000",
+  "RAILS_SRC_PATH": "../RAILS_SOURCE_ROOT",
+  "PROXIES": [
+    "/login",
+    "/public/images"
+  ]
+}
